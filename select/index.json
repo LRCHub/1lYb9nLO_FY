@@ -1,40 +1,64 @@
 {
   "version": 1,
-  "base_track": "フィナーレ。",
+  "base_track": "フィナーレ。 - Finale.",
   "base_artist": "eill",
-  "createdAt": "2025-12-11T01:20:40.673689Z",
+  "createdAt": "2026-02-16T18:28:44.081343Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "-Star Divine- フィナーレ",
-      "artist": "愛城華恋(CV:小山百代)、神楽ひかり(CV:三森すずこ)、天堂真矢(CV:富田麻帆)、西條クロディーヌ(CV:相羽あいな)",
+      "title": "フィナーレ。",
+      "artist": "eill",
       "has_synced": true,
-      "path": "select/01_-Star_Divine-_フィナーレ_愛城華恋(CV_小山百代)、神楽ひかり(CV_三森すずこ)、天堂真矢(CV_富田麻帆)、西條クロディーヌ(CV_相羽あいな).lrc"
+      "path": "select/01_フィナーレ。_eill.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
       "title": "-Star Divine- フィナーレ",
-      "artist": "愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ)、天堂真矢(CV.富田麻帆)、西條クロディーヌ(CV.相羽あいな)",
+      "artist": "愛城華恋(CV:小山百代)、神楽ひかり(CV:三森すずこ)、天堂真矢(CV:富田麻帆)、西條クロディーヌ(CV:相羽あいな)",
       "has_synced": true,
-      "path": "select/02_-Star_Divine-_フィナーレ_愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ)、天堂真矢(CV.富田麻帆)、西條クロディーヌ(CV.相羽あいな).lrc"
+      "path": "select/02_-Star_Divine-_フィナーレ_愛城華恋(CV_小山百代)、神楽ひかり(CV_三森すずこ)、天堂真矢(CV_富田麻帆)、西條クロディーヌ(CV_相羽あいな).lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
       "title": "-Star Divine- フィナーレ",
-      "artist": "愛城華恋 (小山百代), 神楽ひかり (三森すずこ), 天堂真矢 (富田麻帆), 西條クロディーヌ (相羽あいな)",
+      "artist": "愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ)、天堂真矢(CV.富田麻帆)、西條クロディーヌ(CV.相羽あいな)",
       "has_synced": true,
-      "path": "select/03_-Star_Divine-_フィナーレ_愛城華恋_(小山百代),_神楽ひかり_(三森すずこ),_天堂真矢_(富田麻帆),_西條クロディーヌ_(相羽あいな).lrc"
+      "path": "select/03_-Star_Divine-_フィナーレ_愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ)、天堂真矢(CV.富田麻帆)、西條クロディーヌ(CV.相羽あいな).lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "フィナーレ。",
-      "artist": "eill",
+      "title": "-Star Divine- フィナーレ",
+      "artist": "愛城華恋 (小山百代), 神楽ひかり (三森すずこ), 天堂真矢 (富田麻帆), 西條クロディーヌ (相羽あいな)",
       "has_synced": true,
-      "path": "select/04_フィナーレ。_eill.lrc"
+      "path": "select/04_-Star_Divine-_フィナーレ_愛城華恋_(小山百代),_神楽ひかり_(三森すずこ),_天堂真矢_(富田麻帆),_西條クロディーヌ_(相羽あいな).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Track07_桃羽のあまらぶセックス♪～フィナーレ",
+      "artist": "パースペクティブ少女幻奏",
+      "has_synced": true,
+      "path": "select/05_Track07_桃羽のあまらぶセックス♪~フィナーレ_パースペクティブ少女幻奏.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "15 【フィナーレ】リリアと玉座で純愛キス",
+      "artist": "いほーじん",
+      "has_synced": true,
+      "path": "select/06_15_【フィナーレ】リリアと玉座で純愛キス_いほーじん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "05_フィナーレ：あなたとの幸せな日々がずっと続きます",
+      "artist": "はるのこひなた。",
+      "has_synced": true,
+      "path": "select/07_05_フィナーレ_あなたとの幸せな日々がずっと続きます_はるのこひなた。.lrc"
     },
     {
       "id": "petitlyrics_1",
